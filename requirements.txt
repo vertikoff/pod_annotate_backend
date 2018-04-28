@@ -1,0 +1,8 @@
+pymodm
+flask
+numpy
+pytest
+pytest-pep8
+pytest-cov
+validate_email
+flask_cors
